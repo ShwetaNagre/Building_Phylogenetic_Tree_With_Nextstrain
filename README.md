@@ -1,3 +1,5 @@
+# Phylogenetic tree construction with Nextstrain
+
 Hello there, Greetings!
 
 I've set up this repository specifically aimed at generating and illustrating the phylogenetic tree for COVID-19 strains responsible for fatalities, sourced from the GISAID database.
